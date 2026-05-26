@@ -5,3 +5,4 @@ https://www.kaspersky.com/
 https://forum.kaspersky.com/
 https://www.apple.com
 https://ww.android.com
+ https://security@apachefriends.org
