@@ -31,7 +31,7 @@ Automator](https://developer.android.com/training/testing/ui-automator), Kaspres
 And many more!
 
 <img src="kaspresso.png" alt="Kaspresso"/>
-
+https://www.bugshunters@google.com
 <details>
 <summary>
 
